@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java ,**
 
-- Currently looking for a ** Frontend Developer Role ,**
+- Currently looking for a Frontend Developer Role
 
 - 💬 Ask me about **anything to do with tech**
 
