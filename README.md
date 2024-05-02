@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Princewill Okube</h1>
-<h3 align="center">A First Year Student in University Studying Computer Science</h3>
+<h3 align="center">Computer Science Student from City University, of London</h3>
 
 - 🌱 I’m currently learning **Java ,**
 
